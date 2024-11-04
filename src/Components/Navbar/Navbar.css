@@ -1,0 +1,31 @@
+.Nav{
+    /* border: 2px solid black; */
+    height:  80px;
+}
+
+.Menu{
+    position: fixed;
+    margin-left:  680px;
+    margin-top: 15px;
+    background-color: white;
+    height:  60px;
+    width: 580px;
+    
+}
+.Name{
+    position: absolute;
+    /* background-color: black; */
+    margin-top: 15px;
+    margin-left: 40px;
+    height: 70px;
+    width: 450px;
+    padding-top: 15px;
+    /* border:     2px solid black; */
+
+}
+
+.Name a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
