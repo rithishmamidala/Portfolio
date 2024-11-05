@@ -7,7 +7,7 @@ const Navbar = ()  => {
 
         <div className ="Nav"> 
 
-        <div className = "Name"> <a href="#">  𝓡𝓲𝓽𝓲𝓼𝓱 𝓜𝓪𝓶𝓲𝓭𝓪𝓵𝓪   </a></div>
+        {/* <div className = "Name"> <a href="#">  𝓡𝓲𝓽𝓲𝓼𝓱 𝓜𝓪𝓶𝓲𝓭𝓪𝓵𝓪   </a></div> */}
         <div className="Menu">  <Menu/></div>
         </div>
     )
